@@ -27,7 +27,7 @@ attached file Edx Python.ipynb
 # Part B
 
 (1) Course certification, difference between Female and Male 
-This graph shows the difference in certification between Avg% Female and Male graduates courses, from the graph we can see that in MIT the difference is bigger. ttps://public.tableau.com/profile/linakhier#!/vizhome/FemaleVSMalestudents/Sheet2
+This graph shows the difference in certification between Avg% Female and Male graduates courses, from the graph we can see that in MIT the difference is bigger. https://public.tableau.com/profile/linakhier#!/vizhome/FemaleVSMalestudents/Sheet2
 
 (2) Dropouts rates
 This graph shows the problem that many people in the MOOC industry don't like to talk about. The percentage of students that dropout from both institutes is very high, and it is clear that at MIT the percentage of students that dropout is very similar in different subjects. https://public.tableau.com/profile/linakhier#!/vizhome/DropOuts/Sheet2
