@@ -9,14 +9,19 @@ ________________________________________________________________________________
 #Part A
 
 (1) Tableau
+
 a.https://public.tableau.com/profile/evgenia.kerdik#!/vizhome/1_Numberofgraduatesineachcoursesubject/Sheet2
+
 b.https://public.tableau.com/profile/publish/Averageoffemalegraduatesineachcoursesubject/Sheet2#!/publish-confirm
 
 (2) Excel
+
 a. attached file - Graphs in Excel, Sheet MIT vs Harvard
+
 b. attached file - Graphs in Excel, Sheet F vs M
 
 (3) Python
+
 attached file Edx Python.ipynb
 
 
