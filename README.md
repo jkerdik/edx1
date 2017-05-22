@@ -26,18 +26,18 @@ attached file Edx Python.ipynb
 
 # Part B
 
-(1) Course certification, difference between Female and Male 
+(1) Course certification, difference between Female and Male. 
 This graph shows the difference in certification between Avg% Female and Male graduates courses, from the graph we can see that in MIT the difference is bigger. https://public.tableau.com/profile/linakhier#!/vizhome/FemaleVSMalestudents/Sheet2
 
-(2) Dropouts rates
-This graph shows the problem that many people in the MOOC industry don't like to talk about. The percentage of students that dropout from both institutes is very high, and it is clear that at MIT the percentage of students that dropout is very similar in different subjects. https://public.tableau.com/profile/linakhier#!/vizhome/DropOuts/Sheet2
+(2) Dropouts rates.
+This graph shows the problem that many people in the MOOC industry don't like to talk about. The percentage of students that dropout from both institutes is very high, and it is clear that at MIT the percentage of students that dropout are similar in different subjects. https://public.tableau.com/profile/linakhier#!/vizhome/DropOuts/Sheet2
 
-(3) Age of enrollments
-The graph shows that students in both institutes are in the same age range in each subject
+(3) Age of enrollments.
+The graph shows that students in both institutes are in the same age range in each subject.
 https://public.tableau.com/profile/linakhier#!/vizhome/AVGageaccordingtocoursesubjects/Sheet2
 
-(4) Enrollments perception about soft/tech courses and appropriate institute 
-Distribution of enrollments to soft and technical courses between MIT and Harvard shows that perception of MIT as a better technical institute transferred automatically to the online courses and the same about Harvard. 
+(4) Enrollments perception about soft/tech courses and appropriate institute. 
+Distribution of enrollments to soft and technical courses between MIT and Harvard shows that perception of MIT as a better technical institute transferred automatically to the online courses and same tendency about Harvard. 
 https://public.tableau.com/profile/publish/DistributionofenrollmentstosoftandtechnicalcoursesbetweenMITandHarvard/Sheet4#!/publish-confirm
 
 
